@@ -1,6 +1,6 @@
-hi### Hi there raymond is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hi### 
 
-Here are some ideas to get you started:
+RAYMOND:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
